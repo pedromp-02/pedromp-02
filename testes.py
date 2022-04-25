@@ -1,4 +1,4 @@
-import funcaoTeste
+from funcaoTeste import *
 
 def test_add():
     assert add(2, 2) == 5
