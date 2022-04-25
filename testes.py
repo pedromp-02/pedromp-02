@@ -11,5 +11,7 @@ def test_subtract():
 def test_subtract_2():
     numero = subtract (4,2)
     assert numero == 2
-    funcaoWlad(numero)
+    
+def testeWlad():
+    funcaoWlad(2)
     assert numero == 4
