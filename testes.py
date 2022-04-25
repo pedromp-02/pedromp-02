@@ -1,3 +1,4 @@
+import funcao_teste
 def test_add():
     assert add(2, 2) == 5
     assert add('space', 'ship') == 'spaceship'
