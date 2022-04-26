@@ -1,6 +1,6 @@
 from funcaoTeste import *
 from funcaoWlad import *
-from pastaTeste.funcaoTeste import *
+from pastaTeste.testePasta import *
 
 def test_add():
     assert add(2, 3) == 5
