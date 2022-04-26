@@ -1,5 +1,6 @@
 from funcaoTeste import *
 from funcaoWlad import *
+from pastaTeste.funcaoTeste import *
 
 def test_add():
     assert add(2, 3) == 5
@@ -16,4 +17,8 @@ def test_subtract_2():
     
 def testeWlad():
     numero = funcaoWlad(2)
+    assert numero == 4
+
+def testePasta():
+    numero = soma2(2)
     assert numero == 4
