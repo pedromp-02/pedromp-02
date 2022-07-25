@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pedromp-02
-- 👀 I’m interested in understanding GitHub.
-- 🌱 I’m currently learning GitHub.
-- 💞️ I’m looking to collaborate on GitHub.
-- 📫 How to reach me on my GitHub account.
+- 👋 Hi, I’m Pedro Peçanha! I'm a computer science student from Rio de Janeiro, Brazil.
+- 👀 I’m interested in understanding how GitHub works, as well as some programming languages, such as Swift, HTML, CSS, Python, etc.
+- 🌱 I’m currently learning mainly Swift and C.
 
 <!---
 pedromp-02/pedromp-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
